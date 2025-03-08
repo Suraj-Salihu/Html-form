@@ -1,6 +1,6 @@
 Sooraj's Wife Compatibility Application Form
 
-This repository contains a fully responsive and user-friendly HTML form designed to collect essential details from potential applicants.
+This repository contains a fully responsive and user-friendly Example of HTML form designed to collect essential details from potential applicants.
 
 Features
 

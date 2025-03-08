@@ -45,8 +45,7 @@ To deploy on GitHub Pages:
 
 
 4. The live form will be available at:
-
-https://SoorajSalihu.github.io/Html-form/
+5. (https://soorajswifecompatibilityform.netlify.app/)
 
 
 
